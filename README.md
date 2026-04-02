@@ -1,6 +1,6 @@
 ### Convert Project
 
-This project are just educacional, doing with rocketseat school.
+This project are educacional only, doing with rocketseat school.
 
 ### Project ideia
 
